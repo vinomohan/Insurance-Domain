@@ -1,0 +1,2 @@
+# Insurance-Domain
+INSURANCE CLAIM PREDICTION MODEL
